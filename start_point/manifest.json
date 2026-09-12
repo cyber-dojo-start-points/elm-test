@@ -1,11 +1,11 @@
 {
-  "display_name": "Elm 0.19.2, elm-explorations/test 2.2.1",
+  "display_name": "Elm 0.19.2, test 2.2.1",
   "language": [
     "Elm",
     "0.19.2"
   ],
   "test_framework": [
-    "elm-explorations/test",
+    "test",
     "2.2.1"
   ],
   "image_name": "ghcr.io/cyber-dojo-languages/elm_test:566f4da",
