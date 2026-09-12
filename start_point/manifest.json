@@ -1,0 +1,27 @@
+{
+  "display_name": "Elm 0.19.2, elm-explorations/test 2.2.1",
+  "language": [
+    "Elm",
+    "0.19.2"
+  ],
+  "test_framework": [
+    "elm-explorations/test",
+    "2.2.1"
+  ],
+  "image_name": "ghcr.io/cyber-dojo-languages/elm_test:566f4da",
+  "visible_filenames": [
+    "elm.json",
+    "src/Hiker.elm",
+    "tests/HikerTest.elm",
+    "tests/ExpectAssertions.elm",
+    "cyber-dojo.sh"
+  ],
+  "rag_lambda": "red_amber_green.rb",
+  "filename_extension": [ ".elm" ],
+  "progress_regexs": [
+    "Passed:\\s+\\d+\\s+Failed:\\s+[1-9]\\d*",
+    "Passed:\\s+\\d+\\s+Failed:\\s+0"
+  ],
+  "max_seconds": 20,
+  "tab_size": 4
+}
