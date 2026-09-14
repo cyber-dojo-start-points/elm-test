@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 40,
+  "match_counts": {
+    "^Running 1 test\\. ": 1,
+    "^TEST RUN PASSED$": 1,
+    "^Passed: +1$": 1,
+    "^Failed: +0$": 1,
+    "AnswerSizeTest": 0,
+    "three digits": 0
+  }
+}

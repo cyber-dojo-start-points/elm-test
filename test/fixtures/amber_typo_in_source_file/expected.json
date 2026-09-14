@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 40,
+  "matches": [ "^ +String\\.length$" ],
+  "match_counts": {
+    "^-- NAMING ERROR -+ src/Hiker\\.elm$": 1,
+    "^I cannot find a .Sting\\.length. variable:$": 1,
+    "^Detected problems in 1 module\\.$": 1,
+    "^TEST RUN ": 0,
+    "^Passed: ": 0
+  }
+}

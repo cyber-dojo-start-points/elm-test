@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^TODO in module .Hiker. on line [0-9]+$": 1,
+    "^work out the answer$": 1,
+    "^TEST RUN ": 0,
+    "^Passed: ": 0,
+    "^Failed: ": 0
+  }
+}

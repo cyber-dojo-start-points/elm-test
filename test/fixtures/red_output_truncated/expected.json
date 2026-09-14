@@ -1,0 +1,9 @@
+{
+  "truncated": true,
+  "matches": [ "^debug: answer was called, i is: [0-9]+$" ],
+  "match_counts": {
+    "^TEST RUN FAILED$": 0,
+    "^Passed: ": 0,
+    "^Failed: ": 0
+  }
+}

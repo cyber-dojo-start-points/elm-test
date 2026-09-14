@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^-- UNFINISHED PARENTHESES -+ .*tests/AnswerSizeTest\\.elm$": 1,
+    "^`elm make` failed with exit code 1\\.$": 1,
+    "^TEST RUN ": 0,
+    "^Passed: ": 0
+  }
+}

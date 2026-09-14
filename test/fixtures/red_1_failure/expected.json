@@ -1,0 +1,10 @@
+{
+  "matches": [ "^ +54$", "^ +42$" ],
+  "match_counts": {
+    "^Running 1 test\\. ": 1,
+    "to life the universe and everything$": 1,
+    "^TEST RUN FAILED$": 1,
+    "^Passed: +0$": 1,
+    "^Failed: +1$": 1
+  }
+}

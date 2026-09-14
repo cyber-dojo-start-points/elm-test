@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^Running 3 tests\\. ": 1,
+    "to life the universe and everything$": 1,
+    "the answer is three digits long$": 1,
+    "the answer is odd$": 1,
+    "^TEST RUN FAILED$": 1,
+    "^Passed: +0$": 1,
+    "^Failed: +3$": 1
+  }
+}

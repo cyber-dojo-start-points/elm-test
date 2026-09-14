@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^Running 4 tests\\. ": 1,
+    "AnswerSizeTest$": 1,
+    "the answer is three digits long$": 1,
+    "^TEST RUN FAILED$": 1,
+    "^Passed: +3$": 1,
+    "^Failed: +1$": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^No exposed values of type Test found in the tests/ directory\\.$": 1,
+    "^TEST RUN ": 0,
+    "^Passed: ": 0,
+    "^Failed: ": 0
+  }
+}

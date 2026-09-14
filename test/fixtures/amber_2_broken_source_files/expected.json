@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^-- NAMING ERROR -+ src/Hiker\\.elm$": 1,
+    "^-- NAMING ERROR -+ src/Checksum\\.elm$": 1,
+    "^Detected problems in 2 modules\\.$": 1,
+    "^TEST RUN ": 0,
+    "^Passed: ": 0
+  }
+}

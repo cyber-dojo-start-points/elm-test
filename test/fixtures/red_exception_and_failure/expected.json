@@ -1,0 +1,12 @@
+{
+  "match_counts": {
+    "^Running 2 tests\\. ": 1,
+    "to life the universe and everything$": 1,
+    "the checksum of the answer$": 1,
+    "^ +This test failed because it threw an exception: \"Error: TODO in module .Hiker. on line [0-9]+$": 1,
+    "^ +work out the checksum\"$": 1,
+    "^TEST RUN FAILED$": 1,
+    "^Passed: +0$": 1,
+    "^Failed: +2$": 1
+  }
+}

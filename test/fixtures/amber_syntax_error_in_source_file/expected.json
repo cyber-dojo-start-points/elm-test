@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^-- UNFINISHED PARENTHESES -+ src/Hiker\\.elm$": 1,
+    "^Detected problems in 1 module\\.$": 1,
+    "^TEST RUN ": 0,
+    "^Passed: ": 0
+  }
+}
