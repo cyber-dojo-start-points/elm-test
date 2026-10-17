@@ -24,6 +24,5 @@
     "Passed:\\s+\\d+\\s+Failed:\\s+[1-9]\\d*",
     "Passed:\\s+\\d+\\s+Failed:\\s+0"
   ],
-  "max_seconds": 20,
   "tab_size": 4
 }
